@@ -46,5 +46,5 @@ Conéctate conmigo a través de estos puertos:
 ---
 
 <div align="center">
-  <h3>✨ El código por sí solo no construye el futuro; lo hacen las mentes que lo escriben. ✨h3>
+  <h3>✨ El código por sí solo no construye el futuro; lo hacen las mentes que lo escriben. ✨</h3>
 </div>
